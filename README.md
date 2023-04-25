@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem vindo 👋
 
-<!--
-**brunohdossantos/brunohdossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
+- Apaixonado por tecnologia
+- Em busca constante de aprendizado
+- Sempre disponível para compartilhar conhecimento
+- Desenvolvedor .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+#### Siga minhas redes sociais
+
+[![Linkedin: brunohsantos](https://img.shields.io/badge/-brunohsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohsantos/)](https://www.linkedin.com/in/brunohsantos/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.linkedin.com/in/brunohsantos/)](https://www.linkedin.com/in/brunohsantos/)
+![GitHub followers](https://img.shields.io/github/followers/brunohdossantos?label=Follow&style=social)
+
